@@ -3,6 +3,4 @@ hello-world
 
 @patchwork tokyo:D
 
-リドミを編集ちゅう！
-
-ピザとビールおいしいです(⌒▽⌒)わーい
+tottemo majime ni benkyo shiteiru ze :P
